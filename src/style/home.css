@@ -557,6 +557,7 @@ html {
   color: #7f1d1d;
 }
 /* Base Toggle Button */
+/*show color changes */
 .rider-status-toggle {
   min-width: 120px;
   height: 42px;
